@@ -1,2 +1,1 @@
-# 27--proyecto
-juego de las canicas 
+# Proyecto PRO 27 ESTUDIANTE listo
